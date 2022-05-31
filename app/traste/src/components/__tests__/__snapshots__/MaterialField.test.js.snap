@@ -1,0 +1,61 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Matches snapshot 1`] = `
+<div
+  className="MuiFormControl-root MuiFormControl-fullWidth MuiTextField-root css-fhe0il-MuiFormControl-root-MuiTextField-root"
+>
+  <label
+    className="MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-outlined MuiFormLabel-root MuiFormLabel-colorPrimary Mui-error MuiFormLabel-filled css-1sumxir-MuiFormLabel-root-MuiInputLabel-root"
+    data-shrink={true}
+  >
+    Wood
+  </label>
+  <div
+    className="MuiOutlinedInput-root MuiInputBase-root MuiInputBase-colorPrimary Mui-error MuiInputBase-fullWidth MuiInputBase-formControl MuiInputBase-adornedEnd css-154xyx0-MuiInputBase-root-MuiOutlinedInput-root"
+    onClick={[Function]}
+  >
+    <input
+      aria-invalid={true}
+      autoFocus={false}
+      className="MuiOutlinedInput-input MuiInputBase-input MuiInputBase-inputAdornedEnd css-nxo287-MuiInputBase-input-MuiOutlinedInput-input"
+      data-testid="materialfield"
+      disabled={false}
+      onAnimationStart={[Function]}
+      onBlur={[Function]}
+      onChange={[Function]}
+      onFocus={[Function]}
+      required={false}
+      style={
+        Object {
+          "fontSize": 16,
+          "textAlign": "right",
+        }
+      }
+      type="number"
+      value="string"
+    />
+    <div
+      className="MuiInputAdornment-root MuiInputAdornment-positionStart MuiInputAdornment-outlined MuiInputAdornment-sizeMedium css-ittuaa-MuiInputAdornment-root"
+    >
+      <span
+        className="notranslate"
+      >
+        ​
+      </span>
+      %
+    </div>
+    <fieldset
+      aria-hidden={true}
+      className="MuiOutlinedInput-notchedOutline css-1d3z3hw-MuiOutlinedInput-notchedOutline"
+    >
+      <legend
+        className="css-1z7n62"
+      >
+        <span>
+          Wood
+        </span>
+      </legend>
+    </fieldset>
+  </div>
+</div>
+`;

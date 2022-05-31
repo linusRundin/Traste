@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Matches snapshot 1`] = `
+<div
+  className="MuiFormControl-root MuiFormControl-fullWidth MuiTextField-root css-1kjrtrh-MuiFormControl-root-MuiTextField-root"
+>
+  <label
+    className="MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-outlined MuiFormLabel-root MuiFormLabel-colorPrimary Mui-error MuiFormLabel-filled css-1sumxir-MuiFormLabel-root-MuiInputLabel-root"
+    data-shrink={true}
+  >
+    Docket No.
+  </label>
+  <div
+    className="MuiOutlinedInput-root MuiInputBase-root MuiInputBase-colorPrimary Mui-error MuiInputBase-fullWidth MuiInputBase-formControl css-md26zr-MuiInputBase-root-MuiOutlinedInput-root"
+    onClick={[Function]}
+  >
+    <input
+      aria-invalid={true}
+      autoFocus={false}
+      className="MuiOutlinedInput-input MuiInputBase-input css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input"
+      data-testid="inputfield"
+      disabled={false}
+      onAnimationStart={[Function]}
+      onBlur={[Function]}
+      onChange={[Function]}
+      onFocus={[Function]}
+      required={false}
+      type="text"
+      value="string"
+    />
+    <fieldset
+      aria-hidden={true}
+      className="MuiOutlinedInput-notchedOutline css-1d3z3hw-MuiOutlinedInput-notchedOutline"
+    >
+      <legend
+        className="css-1z7n62"
+      >
+        <span>
+          Docket No.
+        </span>
+      </legend>
+    </fieldset>
+  </div>
+</div>
+`;

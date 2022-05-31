@@ -1,0 +1,72 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Matches snapshot 1`] = `
+<div
+  className="MuiFormControl-root MuiFormControl-fullWidth MuiTextField-root css-1uxunh6-MuiFormControl-root-MuiTextField-root"
+>
+  <label
+    className="MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined MuiFormLabel-root MuiFormLabel-colorPrimary Mui-error css-14s5rfu-MuiFormLabel-root-MuiInputLabel-root"
+    data-shrink={false}
+  >
+    Selection
+  </label>
+  <div
+    className="MuiOutlinedInput-root MuiInputBase-root MuiInputBase-colorPrimary Mui-error MuiInputBase-fullWidth MuiInputBase-formControl css-md26zr-MuiInputBase-root-MuiOutlinedInput-root"
+    onClick={[Function]}
+    variant="outlined"
+  >
+    <div
+      aria-expanded="false"
+      aria-haspopup="listbox"
+      className="MuiSelect-select MuiSelect-outlined MuiOutlinedInput-input MuiInputBase-input css-11u53oe-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input"
+      onBlur={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onMouseDown={[Function]}
+      role="button"
+      tabIndex={0}
+    >
+      <span
+        className="notranslate"
+      >
+        ​
+      </span>
+    </div>
+    <input
+      aria-hidden={true}
+      autoFocus={false}
+      className="MuiSelect-nativeInput css-yf8vq0-MuiSelect-nativeInput"
+      data-testid="selectionfield"
+      disabled={false}
+      onAnimationStart={[Function]}
+      onChange={[Function]}
+      required={false}
+      tabIndex={-1}
+      value=""
+    />
+    <svg
+      aria-hidden={true}
+      className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium MuiSelect-icon MuiSelect-iconOutlined css-hfutr2-MuiSvgIcon-root-MuiSelect-icon"
+      data-testid="ArrowDropDownIcon"
+      focusable="false"
+      viewBox="0 0 24 24"
+    >
+      <path
+        d="M7 10l5 5 5-5z"
+      />
+    </svg>
+    <fieldset
+      aria-hidden={true}
+      className="MuiOutlinedInput-notchedOutline css-1d3z3hw-MuiOutlinedInput-notchedOutline"
+    >
+      <legend
+        className="css-173wfxe"
+      >
+        <span>
+          Selection
+        </span>
+      </legend>
+    </fieldset>
+  </div>
+</div>
+`;

@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Matches snapshot 1`] = `
+<header
+  className="MuiPaper-root MuiPaper-elevation MuiPaper-elevation4 MuiAppBar-root MuiAppBar-colorPrimary MuiAppBar-positionSticky css-1n32zbc-MuiPaper-root-MuiAppBar-root"
+  data-testid="header"
+>
+  <div
+    className="MuiToolbar-root MuiToolbar-gutters MuiToolbar-regular css-1im6ja8-MuiToolbar-root"
+  >
+    <svg
+      aria-hidden={true}
+      className="MuiSvgIcon-root MuiSvgIcon-fontSizeLarge css-tzssek-MuiSvgIcon-root"
+      data-testid="KeyboardBackspaceIcon"
+      focusable="false"
+      onClick={[Function]}
+      viewBox="0 0 24 24"
+    >
+      <path
+        d="M21 11H6.83l3.58-3.59L9 6l-6 6 6 6 1.41-1.41L6.83 13H21z"
+      />
+    </svg>
+    <img
+      alt="traste name"
+      src="traste_name.png"
+      style={
+        Object {
+          "height": "25px",
+        }
+      }
+    />
+    <img
+      alt="traste logo"
+      src="traste_logo.png"
+      style={
+        Object {
+          "height": "40px",
+        }
+      }
+    />
+  </div>
+</header>
+`;
